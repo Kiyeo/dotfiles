@@ -1,6 +1,6 @@
 [user]
-	name = Kiyeo
-	email = leojkeo@users.noreply.github.com
+	name = kiyeo
+	email = 52591219+kiyeo@users.noreply.github.com
 [credential]
 	helper = manager-core
 	helper = /usr/bin/git-credential-manager-core
